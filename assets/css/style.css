@@ -9,6 +9,13 @@
     background-color: #fff
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .ui-menu-color-home {
     background-color: #dba100;
 }
@@ -112,9 +119,9 @@ header {
 }
 
 
-.menucontainer {
+/* .menucontainer {
     font-size: 0;
-}
+} */
 
 #nav li {
     font-size: 14px;
